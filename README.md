@@ -1,27 +1,22 @@
-# Nimbus Intelligence Hands On - File Repository
-![Nimbus Intelligence - Hands On Tasty Bytes](https://user-images.githubusercontent.com/68337675/226066063-1b13428c-6a19-46d4-ae3f-32e328025167.png)
+# Nimbus Intelligence Hands On
+![Screenshot](https://github.com/psophe/NimbusIntelligence_Hands_On/blob/main/nimbus_hands-on-main/Nimbus%20Intelligence%20-%20Hands%20On%20Tasty%20Bytes.png)
 
 ## Overview
-If you are brand new to Tasty Bytes we ask that you please reference [**An Introduction to Tasty Bytes - Quickstart**](https://quickstarts.snowflake.com/guide/tasty_bytes_introduction/index.html). 
-  - This Quickstart is a Prerequisite for all other [**Powered By Tasty Bytes - Quickstarts**](https://quickstarts.snowflake.com/guide/tasty_bytes_introduction/index.html) available. 
 
-## Existing Files to Quickstart Mapping
 The files you see within these repository are nothing without the associated side by side guide seen in their accompanying Quickstart. Please see the mapping for these below:
-- [**tb_introduction.sql**](https://github.com/Snowflake-Labs/sf-samples/blob/main/samples/tasty_bytes/tb_introduction.sql) --> [**An Introduction to Tasty Bytes**](https://quickstarts.snowflake.com/guide/tasty_bytes_introduction/index.html)
 
-- [**tb_zts_collaboration.sql**](https://github.com/Snowflake-Labs/sf-samples/blob/main/samples/tasty_bytes/tb_zts_collaboration.sql) --> [**Tasty Bytes - Zero to Snowflake - Collaboration**](https://quickstarts.snowflake.com/guide/tasty_bytes_zero_to_snowflake_collaboration/index.html)
+- [**0. Introduction.sql**](https://github.com/psophe/NimbusIntelligence_Hands_On/blob/main/nimbus_hands-on-main/0.%20Introduction.sql)
 
-- [**tb_zts_data_governance.sql**](https://github.com/Snowflake-Labs/sf-samples/blob/main/samples/tasty_bytes/tb_zts_data_governance.sql) --> [**Tasty Bytes - Zero to Snowflake - Data Governance**](https://quickstarts.snowflake.com/guide/tasty_bytes_zero_to_snowflake_data_governance/index.html)
+- [**1. Financial_governance.sql**](https://github.com/psophe/NimbusIntelligence_Hands_On/blob/main/nimbus_hands-on-main/1.%20Financial_governance.sql)
+  
+- [**2. Transformation.sql**](https://github.com/psophe/NimbusIntelligence_Hands_On/blob/main/nimbus_hands-on-main/2.%20Transformation.sql)
 
-- [**tb_zts_financial_governance.sql**](https://github.com/Snowflake-Labs/sf-samples/blob/main/samples/tasty_bytes/tb_zts_financial_governance.sql) --> [**Tasty Bytes - Zero to Snowflake - Financial Governance**](https://quickstarts.snowflake.com/guide/tasty_bytes_zero_to_snowflake_financial_governance/index.html)
+- [**3. Semi_structured_data.sql**](https://github.com/psophe/NimbusIntelligence_Hands_On/blob/main/nimbus_hands-on-main/3.%20Semi_structured_data.sql)
 
-- [**tb_zts_geospatial.sql**](https://github.com/Snowflake-Labs/sf-samples/blob/main/samples/tasty_bytes/tb_zts_geospatial.sql) --> [**Tasty Bytes - Zero to Snowflake - Geospatial**](https://quickstarts.snowflake.com/guide/tasty_bytes_zero_to_snowflake_geospatial/index.html)
+- [**4. Data_governance.sql**](https://github.com/psophe/NimbusIntelligence_Hands_On/blob/main/nimbus_hands-on-main/4.%20Data_governance.sql)
 
-- [**tb_zts_semi_structured_data.sql**](https://github.com/Snowflake-Labs/sf-samples/blob/main/samples/tasty_bytes/tb_zts_semi_structured_data.sql) --> [**Tasty Bytes - Zero to Snowflake - Semi-Structured Data**](https://quickstarts.snowflake.com/guide/tasty_bytes_zero_to_snowflake_semi_structured_data/index.html)
+- [**5. Collaboration.sql**](https://github.com/psophe/NimbusIntelligence_Hands_On/blob/main/nimbus_hands-on-main/5.%20Collaboration.sql)
 
-- [**tb_zts_transformation.sql**](https://github.com/Snowflake-Labs/sf-samples/blob/main/samples/tasty_bytes/tb_zts_transformation.sql) --> [**Tasty Bytes - Zero to Snowflake - Transformation**](https://quickstarts.snowflake.com/guide/tasty_bytes_zero_to_snowflake_transformation/index.html)
-
-
-
-
+- [**6. Geospatial.sql**](https://github.com/psophe/NimbusIntelligence_Hands_On/blob/main/nimbus_hands-on-main/6.%20Geospatial.sql)
+  
 
